@@ -97,3 +97,10 @@ node_modules/
 # Build artifacts
 *.out
 *.exe
+# Generated experiment plots
+/Standard_RC4_frequency.png
+/RC4_Drop_frequency.png
+/Chaotic_RC4_frequency.png
+/v7/Standard_RC4_frequency.png
+/v7/RC4_Drop_frequency.png
+/v7/Chaotic_RC4_frequency.png
